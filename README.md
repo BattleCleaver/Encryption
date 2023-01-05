@@ -3,7 +3,7 @@
 
 ### This code allows encrypting & decrypting a collection of files when the user first inputs the correct password. 
 
-Follow these procedures to ensure the code to function correctly: 
+Follow these procedures to ensure the code is functioning correctly: 
 
 
 >**line 56, change the path of where your images are initially located for encryption;
