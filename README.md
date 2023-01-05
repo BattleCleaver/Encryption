@@ -1,7 +1,7 @@
 # Encryption/Decryption Code
 
 
-###This code allows encrypting & decrypting a collection of files when the user first inputs the correct password. 
+### This code allows encrypting & decrypting a collection of files when the user first inputs the correct password. 
 
 
 >Follow these procedures to ensure the code to function correctly:
