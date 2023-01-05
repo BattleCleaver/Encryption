@@ -14,5 +14,5 @@ line 62 & 95, append/remove the file you would like to encrypt from f.endswith('
 
 # Note:
 
-This code will not decrypt with other files that have been encrypted from a different software. The files can only be decrypted from files
+This code will not decrypt with other files that have been encrypted from a different software/code. The files can only be decrypted from files
 that have been encrypted by the code alone. 
